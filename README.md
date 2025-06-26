@@ -5,17 +5,17 @@ The scope of this system covers three main user roles: administrators, club pres
 The university lacks a consistent digital infrastructure for club management. Processes like application review, elections, and event tracking are often handled via emails, printed papers, or in-person meetings. These methods lead to data loss, approval delays, and reduced student engagement. Additionally, election processes are non-transparent and difficult to audit. Our interviews with club presidents and student affairs staff confirmed the need for an integrated solution.
 
 We set clear goals for our system from the start:
-	•	To digitalize the club member registration and simplify approval workflows.
-	•	To provide role-specific panels for admins, club presidents, and regular members.
-	•	To automate club elections via an electronic voting system.
-	•	To provide notification and announcement features for enhanced communication.
-	•	To ensure that all actions are traceable, secure, and user-friendly.
+•	To digitalize the club member registration and simplify approval workflows.
+•	To provide role-specific panels for admins, club presidents, and regular members.
+•	To automate club elections via an electronic voting system.
+•	To provide notification and announcement features for enhanced communication.
+•	To ensure that all actions are traceable, secure, and user-friendly.
 Each feature is designed to solve a specific problem observed in the traditional club management approach.
 
 Our system provides the following tangible and intangible benefits:
-	•	Automated forms and registration eliminate repetitive manual approvals.
-	•	Digital voting increases transparency and engagement in club elections.
-	•	The unified platform strengthens student interaction with club activities.
-	•	Admin dashboards provide real-time statistics and control.
-	•	The user-friendly design encourages adoption even among non-technical users.
-	•	Overall, the system boosts operational speed, reliability, and communication.
+•	Automated forms and registration eliminate repetitive manual approvals.
+•	Digital voting increases transparency and engagement in club elections.
+•	The unified platform strengthens student interaction with club activities.
+•	Admin dashboards provide real-time statistics and control.
+•	The user-friendly design encourages adoption even among non-technical users.
+•	Overall, the system boosts operational speed, reliability, and communication.
